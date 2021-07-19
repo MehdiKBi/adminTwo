@@ -1,0 +1,36 @@
+.login{
+ display: flex;
+ justify-content: center;
+}
+
+.login .inner-login{
+  width: 40em;
+  height: 25em;
+  margin: 10em 0 0 5em ;
+  padding: 3em;
+  border-radius: 10px;
+}
+
+.corporate{
+  display: flex;
+  justify-content: center;
+ }
+ 
+ .corporate .inner-corporate{
+   width: 100em;
+   height: 33em;
+   margin: 10em 0 0 5em ;
+   border-radius: 10px;
+ }
+
+ .checklist{
+  display: flex;
+  justify-content: center;
+ }
+ 
+ .corporate .inner-checklist {
+   width: 100em;
+   height: 33em;
+   margin: 10em 0 0 5em ;
+   border-radius: 10px;
+ }
